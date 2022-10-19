@@ -1,0 +1,43 @@
+[33mcommit ea6723081231ed2261e751fbbb4c50c1e6b79853[m[33m ([m[1;36mHEAD -> [m[1;32mcambiar-color-fondo[m[33m)[m
+Author: mariofhdez <mario.florez249@gmail.com>
+Date:   Mon Oct 17 18:25:47 2022 -0500
+
+    Modifica el primer parrafo y agrega uno adicional
+
+[33mcommit a558f21a771e24b4c94f637b8a2a52427a6ef937[m[33m ([m[1;32mmain[m[33m)[m
+Author: mariofhdez <mario.florez249@gmail.com>
+Date:   Mon Oct 17 17:24:10 2022 -0500
+
+    Se cambia subtitulo a parrafo
+    
+    En esta ocasión se traslada parte del contenido y se reclasifica a párrafo ya que estaba ingresado como título
+
+[33mcommit 2083e66ff550d97fa8ae902fc99f8273b69520b2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mariofhdez <mario.florez249@gmail.com>
+Date:   Sun Oct 16 23:15:06 2022 -0500
+
+    Modifica el subtitulo
+
+[33mcommit 6410b7261cd155bd92c875669c8e7441373e203e[m
+Author: mariofhdez <mario.florez249@gmail.com>
+Date:   Sun Oct 16 23:12:27 2022 -0500
+
+    Alguien olvidó poner el charset...
+    
+    La página es UTF-8 porque va a ser visitada por personas que hablan español.
+
+[33mcommit ea8d012f2cc927c945a3e3e8c54ec9e728604770[m
+Author: mariofhdez <mario.florez249@gmail.com>
+Date:   Sun Oct 16 23:07:08 2022 -0500
+
+    Creo un prototipo para la página
+    
+    Este es un prototipo con dos frases que tienen el texto de la portada.
+    
+    El cliente dice que los visitantes de la página van a ser muy exclusivos, así que debería ser formal al escribir el texto.
+
+[33mcommit e2c4737b0e315907216664edd580d60a11877ac8[m
+Author: mariofhdez <115964998+mariofhdez@users.noreply.github.com>
+Date:   Sun Oct 16 22:40:04 2022 -0500
+
+    Initial commit
