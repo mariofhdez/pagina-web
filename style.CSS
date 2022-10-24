@@ -11,14 +11,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header, footer {
-    background: lightpink;
+    background: #c0c0f0;
     position: relative;
     text-align: center;
     font-size: 1.2em;
 }
 
-header, header::before, header::after { border-bottom: 1px solid hotpink; }
-header, header::before, header::after { border-top: 1px solid hotpink; }
+header, header::before, header::after { border-bottom: 1px solid #6060c0; }
+header, header::before, header::after { border-top: 1px solid #6060c0; }
 
 footer {
     margin-top: 50px;
@@ -30,7 +30,7 @@ header:before, header:after, footer:before, footer:after {
     position: absolute;
     height: 100%;
     width: 600px;
-    background: lightpink;
+    background: #c0c0f0;
 }
 
 header:before, footer:before {left: 100%;}
@@ -62,7 +62,7 @@ ul#galeria img {
 }
 
 ul#galeria a{
-    color: deeppink;
+    color: #003399;
     text-decoration: underline;
     font-weight: bold;
 }
